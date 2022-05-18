@@ -6,5 +6,5 @@ you can also open http://localhost:3000 to view it in your browser.
 
 The page will reload when you make changes.
 
-![image](https://github.com/Tzachc/Jones-Form/blob/main/screenshots/Form%20video.m4v) <br />
+![image](https://github.com/Tzachc/Jones-Form/blob/main/screenshots/AllValidation.png) <br />
 
