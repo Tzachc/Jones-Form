@@ -12,5 +12,4 @@ The page will reload when you make changes.
 
 ![Form](https://user-images.githubusercontent.com/57837594/169160684-2442dc0b-260f-4784-9a5d-05957d0e4581.png)
 
-![MailRecive](https://user-images.githubusercontent.com/57837594/169160706-e6f210b9-1174-4177-aa02-9a999959ff26.png)
 ![JonesValidation](https://user-images.githubusercontent.com/57837594/169160715-eb23c9a9-b3fd-4398-a6b4-508feb0dd896.png)
